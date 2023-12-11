@@ -1,0 +1,1 @@
+Coming up with an initial plan and setting up repository and project -> ~20min
